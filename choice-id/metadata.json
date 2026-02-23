@@ -1,5 +1,0 @@
-{
-  "name": "CHOICE iD",
-  "description": "A privacy-first, self-sovereign identity and reputation application. Features real wallet integration, encrypted IndexedDB storage, and on-chain reputation anchoring.",
-  "requestFramePermissions": []
-}
